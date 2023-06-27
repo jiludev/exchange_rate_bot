@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "currencybot"
+version = "0.1.0"
+description = ""
+authors = ["yoworu <115416023+yoworu@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiogram = "3.0.0b7"
+python-dotenv = "^1.0.0"
+numpy = "^1.25.0"
+aiogram3b8-calendar = "^0.0.2"
+aiohttp = "^3.8.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
