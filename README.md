@@ -1,4 +1,4 @@
-It's simple aiogram bot for get exchange rate data
+## Simple aiogram bot for get exchange rate data
 
 Bot uses The Frankfurter API.
 This API tracks foreign exchange references rates published by the European Central Bank.
